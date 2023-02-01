@@ -1,0 +1,19 @@
+Steps in the process
+ - Concept
+ - Breaking idea into core components
+ - Prototype
+ - Distribute work
+ - Create base version
+ - Design tests
+ - Rework software until satisfied
+ - Polish software
+ - Release version
+
+Jargon
+ - API
+ - Framework
+ - Architecture
+
+Good & Bad
+ - Conflicting ideas
+ - Teamwork (faster development and specialization)
