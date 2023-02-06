@@ -112,7 +112,7 @@ A prototype is an implementation that is not designed to be final, but to be a p
 - Emphasis on *small scale*
 - Includes the [[Software Design Methodologies#Spiral Model |Spiral Model]]
 - Sometimes considered a design model
-- Issue of fideltity:
+- Issue of fidelity:
 	- What features to capture? (*Breadth*)
 	- How fleshed out are they? (*Depth*)
 
