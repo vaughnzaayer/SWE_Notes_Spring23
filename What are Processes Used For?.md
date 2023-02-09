@@ -5,6 +5,7 @@
 - Very important for software to be high quality, and *correct*
 - Timeline driven/critical
 
+
 ## Academic
 - Generally a smaller team than industry
 - Software usually open source
@@ -20,5 +21,3 @@
 - Correctness is less important
 - Too much overhead slows down productivity, and can be unnecessary
 - Ad-Hoc heavy ([[Software Design Methodologies#Ad-Hoc|Ad-Hoc]])
-
-## Other
