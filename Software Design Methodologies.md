@@ -31,6 +31,7 @@
 **Write Documentation Throughout Process**
 1) *Requirements*
 	- What should software do?
+	- [[Requirements]]
 2) *Design*
 	- How should the software do it?
 	- What language? Existing software? etc.
