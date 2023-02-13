@@ -3,7 +3,9 @@
 - Levels of abstraction
 
 ## Requirements Document
+[[The Requirements Document]]
 - a.k.a *Software Design Specification*
+
 
 ### What's important?
 - Clear list of what the customer actually wants
@@ -12,6 +14,7 @@
 - Where is the boundary between design and requirements?
 
 ### Goals
+*See:* [[How to Generate Requirements]]
 #### Intuition
 - List of everything the program needs to do (what's the end goal?)
 	- Test completion
