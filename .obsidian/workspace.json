@@ -16,12 +16,36 @@
             }
           },
           {
+            "id": "8e2f6a99fe5d5367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Joel Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2c3ad7b01cbff1cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "How to Generate Requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae4deff2c24e807d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Joel Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2984ef95527ba6ad",
@@ -118,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Generate Requirements.md",
+                "file": "The Joel Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Generate Requirements.md",
+                "file": "The Joel Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Generate Requirements.md"
+                "file": "The Joel Test.md"
               }
             }
           }
@@ -176,13 +201,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c3ad7b01cbff1cf",
+  "active": "8e2f6a99fe5d5367",
   "lastOpenFiles": [
-    "Requirements.md",
+    "Design.md",
+    "The Joel Test.md",
     "How to Generate Requirements.md",
+    "Requirements.md",
     "Plan and Process-Driven Development.md",
     "Software Design Methodologies.md",
     "The Requirements Document.md",
