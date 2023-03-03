@@ -8,51 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d8c7ac73826f8d0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8e2f6a99fe5d5367",
+            "id": "4ca999e7a8821bc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Joel Test.md",
+                "file": "Design.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2c3ad7b01cbff1cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to Generate Requirements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae4deff2c24e807d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Joel Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b21e2593a9500570",
+            "id": "3a2c8d9a90e6cd38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,19 +32,63 @@
             }
           },
           {
-            "id": "84604cd63b74dcc0",
+            "id": "8d0261a4f4423f7d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "8f7896bf0696106b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requirements.md",
+                "file": "Design.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "200b9f06cf1b352b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UML Diagrams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "991f5f4e535a66f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea1d88d567fa0b79",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-01 10.37.39.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2984ef95527ba6ad",
@@ -143,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Joel Test.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Joel Test.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Joel Test.md"
+                "file": "README.md"
               }
             }
           }
@@ -205,17 +216,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e2f6a99fe5d5367",
+  "active": "991f5f4e535a66f2",
   "lastOpenFiles": [
+    "UML Diagrams.md",
+    "Excalidraw/UML_diagrams.excalidraw.md",
+    "Excalidraw/UML_diagrams.excalidraw.svg",
     "Design.md",
-    "The Joel Test.md",
-    "How to Generate Requirements.md",
-    "Requirements.md",
+    "README.md",
     "Plan and Process-Driven Development.md",
-    "Software Design Methodologies.md",
     "The Requirements Document.md",
+    "Requirements.md",
+    "Software Design Methodologies.md",
+    "Excalidraw/Drawing 2023-03-01 10.49.33.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-01 10.37.39.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-01 10.37.39.excalidraw.svg",
+    "Excalidraw/Drawing 2023-03-01 10.33.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-01 10.33.10.excalidraw.svg",
+    "Excalidraw/Drawing 2023-03-01 10.11.45.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-01 10.20.26.excalidraw.svg",
+    "Excalidraw/Drawing 2023-03-01 10.20.26.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-01 10.11.45.excalidraw.svg",
+    "How to Generate Requirements.md",
+    "Excalidraw/Drawing 2023-02-27 10.10.31.excalidraw.svg",
+    "Excalidraw/Drawing 2023-02-27 10.10.31.excalidraw.md",
+    "Agile Development.md",
+    "Excalidraw/Drawing 2023-02-27 10.27.54.excalidraw.md",
+    "The Joel Test.md",
+    "Excalidraw",
     "Test-Driven Design and Development.md",
-    "What are Processes Used For?.md",
-    "Agile Development.md"
+    "What are Processes Used For?.md"
   ]
 }
