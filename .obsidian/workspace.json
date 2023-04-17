@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3de86164cf4e2cb4",
+        "id": "940c61892c7e4448",
         "type": "tabs",
         "children": [
           {
-            "id": "4ca999e7a8821bc5",
+            "id": "aabd038113c70d09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,75 +20,49 @@
             }
           },
           {
-            "id": "3a2c8d9a90e6cd38",
+            "id": "de86f4c6c33a94e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requirements.md",
+                "file": "Structural Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d0261a4f4423f7d",
+            "id": "8561782eca038641",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "8f7896bf0696106b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "200b9f06cf1b352b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML Diagrams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "991f5f4e535a66f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea1d88d567fa0b79",
+            "id": "936974e33e692a5f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-01 10.37.39.excalidraw.md"
+                "file": "Excalidraw/UML_diagrams.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2fad09010030cfcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "White Box Testing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "White Box Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "White Box Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "White Box Testing.md"
               }
             }
           }
@@ -216,19 +190,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "991f5f4e535a66f2",
+  "active": "2fad09010030cfcd",
   "lastOpenFiles": [
+    "ASSIGNMENT - Store Employee Manager.md",
+    "White Box Testing.md",
     "UML Diagrams.md",
+    "Design.md",
+    "The Requirements Document.md",
+    "Test-Driven Design and Development.md",
+    "Software Design Methodologies.md",
+    "Structural Design Patterns.md",
+    "README.md",
+    "Factory Patterns.md",
+    "Excalidraw/UML_diagrams.excalidraw.png",
+    "Behavioral Design Patterns.md",
     "Excalidraw/UML_diagrams.excalidraw.md",
     "Excalidraw/UML_diagrams.excalidraw.svg",
-    "Design.md",
-    "README.md",
-    "Plan and Process-Driven Development.md",
-    "The Requirements Document.md",
-    "Requirements.md",
-    "Software Design Methodologies.md",
-    "Excalidraw/Drawing 2023-03-01 10.49.33.excalidraw.md",
+    "Testing.md",
+    "Black Box Testing.md",
+    "Requirements Canvas.canvas",
     "Excalidraw/Drawing 2023-03-01 10.37.39.excalidraw.md",
+    "Plan and Process-Driven Development.md",
+    "Requirements.md",
+    "Excalidraw/Drawing 2023-03-01 10.49.33.excalidraw.md",
     "Excalidraw/Drawing 2023-03-01 10.37.39.excalidraw.svg",
     "Excalidraw/Drawing 2023-03-01 10.33.10.excalidraw.md",
     "Excalidraw/Drawing 2023-03-01 10.33.10.excalidraw.svg",
@@ -242,8 +226,6 @@
     "Agile Development.md",
     "Excalidraw/Drawing 2023-02-27 10.27.54.excalidraw.md",
     "The Joel Test.md",
-    "Excalidraw",
-    "Test-Driven Design and Development.md",
-    "What are Processes Used For?.md"
+    "Excalidraw"
   ]
 }

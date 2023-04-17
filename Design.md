@@ -124,3 +124,42 @@ Models how each entity interacts with one another
 - Attributes are **circles**
 	- **Underlined** attributes are critical and identifiers for an entity
 - Relationships are **diamonds**
+
+
+## Design Principles
+
+### Information Hiding (Encapsulation)
+- Interface vs Implementation
+	- What our components do vs how our components do this
+- Interface should be publicly visible
+- Implementation should not be publicly visible 
+- Important for *refactoring* 
+- Allows changes to code to affect only components that rely on implementation
+
+### Polymorphism
+- When an operation's behavior can change based on parameters
+- 3 Types:
+	- Ad-hoc polymorphism 
+		- (A + B)
+		- Integer arith.
+		- Calling object methods
+		- Concatenating strings 
+	- Subtype Polymorphism 
+		- (obj.toString();)
+	- Parametric Polymorphism
+		- Templates in C++ to create type-specific objects
+
+
+### Open/Closed Principle
+- Components should be open for *extension* and closed for *modification*
+
+### Avoid the Diamond of Death
+- Avoid having classes inherit from multiple parent classes
+
+### Composition over Inheritance
+- has-a > is-a
+
+### Listcov Substitution Principle
+- Any property of a parent class should be true for all subclasses
+
+
